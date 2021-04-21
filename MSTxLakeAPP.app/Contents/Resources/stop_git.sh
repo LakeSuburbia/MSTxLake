@@ -1,0 +1,1 @@
+/Users/sandermangelschots/Documents/GitHub/CloneRepo/MSTxLake/stop_git.sh
