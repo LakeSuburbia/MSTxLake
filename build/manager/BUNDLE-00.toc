@@ -1,0 +1,3 @@
+([('manager',
+   '/Users/sandermangelschots/Documents/GitHub/CloneRepo/MSTxLake/dist/manager',
+   'EXECUTABLE')],)

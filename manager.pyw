@@ -7,8 +7,6 @@ from tkinter import *
 TK_SILENCE_DEPRECATION=1
 PYTHONWARNINGS="ignore::DeprecationWarning:simplejson"
 
-os.system("exec exit")
-
 def init():
     os.system("bash init_git.sh")
 
