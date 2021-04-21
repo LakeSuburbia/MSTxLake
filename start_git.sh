@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 git --version
-git pull
+git fetch --all
+git reset --hard origin/master
 open MSTxLake.logicx

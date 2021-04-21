@@ -3,6 +3,8 @@
 import os
 import tkinter as tk
 
+TK_SILENCE_DEPRECATION = 1
+
 window = tk.Tk()
 window.title("MST & Lake Suburbia maken muziek")
 canvas = tk.Canvas(window, width = 450, height = 500)
