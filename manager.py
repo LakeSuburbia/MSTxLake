@@ -4,7 +4,7 @@ import os
 import tkinter
 from tkinter import *
 
-TK_SILENCE_DEPRECATION = 1
+TK_SILENCE_DEPRECATION=1
 
 window = Tk()
 window.title("MST & Lake Suburbia maken muziek")
