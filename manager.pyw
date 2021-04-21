@@ -4,9 +4,6 @@ import os
 import tkinter
 from tkinter import *
 
-TK_SILENCE_DEPRECATION=1
-PYTHONWARNINGS="ignore::DeprecationWarning:simplejson"
-
 def init():
     os.system("bash init_git.sh")
 
@@ -17,8 +14,8 @@ def stop():
     os.system("bash stop_git.sh")
 
 root = Tk()
-root.title("Daan's supercoole writetracker")
-root.geometry("400x400")
+root.title("MST & Lake Suburbia maken muziek")
+root.geometry("200x200")
 
 initButton = Button(root, text="INIT", command=init)
 initButton.pack()
